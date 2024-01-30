@@ -1,0 +1,7 @@
+public class Demo
+{
+
+boolea  b = true;
+
+int i =10;
+}
